@@ -1,0 +1,27 @@
+{
+  "name": "@robertsspaceindustries/simplecache",
+  "version": "1.0.0",
+  "description": "Simple value caching",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertsspaceindustries/simplecache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": {
+    "name": "Astrid",
+    "email": "github@astrid.exposed",
+    "url": "https://robertsspaceindustri.es"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertsspaceindustries/simplecache/issues"
+  },
+  "homepage": "https://github.com/robertsspaceindustries/simplecache#readme"
+}
